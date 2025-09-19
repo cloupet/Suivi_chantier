@@ -1,0 +1,1795 @@
+{
+  "sites": [
+    {
+      "id": 1756121013195,
+      "name": "Philea Fabregues Bat 2",
+      "description": "Bat 2",
+      "materials": [
+        {
+          "id": 1751308875563,
+          "name": "Détecteur de fumée",
+          "total": 216,
+          "installed": 203,
+          "sessions": [
+            {
+              "start": "2025-08-26T11:19:23.226Z",
+              "end": "2025-08-26T13:44:53.988Z",
+              "quantity": 6,
+              "paused": false
+            },
+            {
+              "start": "2025-08-26T13:51:38.615Z",
+              "end": "2025-08-26T15:01:27.374Z",
+              "quantity": 2,
+              "paused": false
+            },
+            {
+              "start": "2025-08-27T05:55:57.472Z",
+              "end": "2025-08-27T08:22:26.129Z",
+              "quantity": 6,
+              "paused": false
+            },
+            {
+              "start": "2025-08-27T08:27:08.409Z",
+              "end": "2025-08-27T09:59:57.904Z",
+              "quantity": 3,
+              "paused": false
+            },
+            {
+              "start": "2025-08-27T10:51:00.000Z",
+              "end": "2025-08-27T11:51:00.000Z",
+              "quantity": 5,
+              "manual": true
+            },
+            {
+              "start": "2025-08-27T11:52:36.968Z",
+              "end": "2025-08-27T13:45:43.710Z",
+              "quantity": 6,
+              "paused": false
+            },
+            {
+              "start": "2025-08-27T13:48:54.975Z",
+              "end": "2025-08-27T14:44:18.692Z",
+              "quantity": 2,
+              "paused": false
+            },
+            {
+              "start": "2025-08-28T06:01:06.487Z",
+              "end": "2025-08-28T08:56:04.166Z",
+              "quantity": 8,
+              "paused": false
+            },
+            {
+              "start": "2025-08-28T10:08:44.613Z",
+              "end": "2025-08-28T14:04:02.194Z",
+              "quantity": 10,
+              "paused": false
+            },
+            {
+              "start": "2025-08-29T04:57:17.374Z",
+              "end": "2025-08-29T06:05:11.528Z",
+              "quantity": 5,
+              "paused": false
+            },
+            {
+              "start": "2025-08-29T06:05:38.161Z",
+              "end": "2025-08-29T07:42:00.396Z",
+              "quantity": 5,
+              "paused": false
+            },
+            {
+              "start": "2025-09-01T02:54:42.664Z",
+              "end": "2025-09-01T04:59:23.307Z",
+              "quantity": 5,
+              "paused": false
+            },
+            {
+              "start": "2025-09-01T06:43:15.900Z",
+              "end": "2025-09-01T09:14:25.369Z",
+              "quantity": 7,
+              "paused": false
+            },
+            {
+              "start": "2025-09-02T05:21:50.823Z",
+              "end": "2025-09-02T07:57:15.460Z",
+              "quantity": 6,
+              "paused": false
+            },
+            {
+              "start": "2025-09-04T05:39:02.221Z",
+              "end": "2025-09-04T07:43:50.191Z",
+              "quantity": 8,
+              "paused": false
+            },
+            {
+              "start": "2025-09-04T10:10:43.162Z",
+              "end": "2025-09-04T12:35:35.814Z",
+              "quantity": 8,
+              "paused": false
+            },
+            {
+              "start": "2025-09-04T13:05:17.319Z",
+              "end": "2025-09-04T14:53:44.057Z",
+              "quantity": 8,
+              "paused": false
+            },
+            {
+              "start": "2025-09-05T07:54:58.336Z",
+              "end": "2025-09-05T09:43:07.919Z",
+              "quantity": 8,
+              "paused": false
+            },
+            {
+              "start": "2025-09-08T04:04:40.135Z",
+              "end": "2025-09-08T06:00:38.595Z",
+              "quantity": 8,
+              "paused": false
+            },
+            {
+              "start": "2025-09-08T06:29:18.447Z",
+              "end": "2025-09-08T08:43:13.288Z",
+              "quantity": 8,
+              "paused": false
+            },
+            {
+              "start": "2025-09-08T09:06:39.232Z",
+              "end": "2025-09-09T04:25:29.794Z",
+              "quantity": 16,
+              "paused": false
+            },
+            {
+              "start": "2025-09-09T05:00:28.210Z",
+              "end": "2025-09-09T12:37:57.518Z",
+              "quantity": 24,
+              "paused": false
+            },
+            {
+              "start": "2025-09-09T12:38:29.996Z",
+              "end": "2025-09-10T07:32:34.052Z",
+              "quantity": 8,
+              "paused": false
+            },
+            {
+              "start": "2025-09-10T08:50:49.847Z",
+              "end": "2025-09-11T14:02:20.577Z",
+              "quantity": 13,
+              "paused": false
+            },
+            {
+              "start": "2025-09-15T04:17:34.730Z",
+              "end": "2025-09-15T06:24:12.653Z",
+              "quantity": 8,
+              "paused": false
+            },
+            {
+              "start": "2025-09-15T09:16:02.395Z",
+              "end": "2025-09-15T09:34:39.579Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-09-16T09:26:45.100Z",
+              "end": "2025-09-16T09:42:56.020Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-09-16T10:54:28.514Z",
+              "end": "2025-09-16T11:38:20.994Z",
+              "quantity": 3,
+              "paused": false
+            },
+            {
+              "start": "2025-09-16T12:21:26.694Z",
+              "end": "2025-09-16T12:58:11.449Z",
+              "quantity": 3,
+              "paused": false
+            },
+            {
+              "start": "2025-09-16T13:05:00.000Z",
+              "end": "2025-09-16T13:20:00.000Z",
+              "quantity": 1,
+              "manual": true,
+              "paused": false
+            },
+            {
+              "start": "2025-09-19T08:27:52.304Z",
+              "end": "2025-09-19T08:43:47.944Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1751837391090,
+          "name": "Tirage de câble",
+          "total": 3,
+          "installed": 1.71,
+          "sessions": [
+            {
+              "start": "2025-08-25T11:30:00.000Z",
+              "end": "2025-08-25T15:00:00.000Z",
+              "quantity": 0.1,
+              "manual": true
+            },
+            {
+              "start": "2025-08-26T06:58:26.864Z",
+              "end": "2025-08-26T11:11:04.286Z",
+              "quantity": 0.1,
+              "paused": false
+            },
+            {
+              "start": "2025-09-01T11:08:35.846Z",
+              "end": "2025-09-01T15:32:09.985Z",
+              "quantity": 0.1,
+              "paused": false
+            },
+            {
+              "start": "2025-09-01T09:50:00.000Z",
+              "end": "2025-09-01T12:45:00.000Z",
+              "quantity": 0.36,
+              "manual": true
+            },
+            {
+              "start": "2025-09-02T04:19:00.000Z",
+              "end": "2025-09-02T05:21:00.000Z",
+              "quantity": 0.2,
+              "paused": false
+            },
+            {
+              "start": "2025-09-02T09:07:43.265Z",
+              "end": "2025-09-02T14:37:56.171Z",
+              "quantity": 0.42,
+              "paused": false
+            },
+            {
+              "start": "2025-09-03T06:18:02.788Z",
+              "end": "2025-09-03T14:37:24.347Z",
+              "quantity": 0.43,
+              "paused": false
+            },
+            {
+              "start": "2025-09-05T06:11:35.961Z",
+              "end": "2025-09-11T09:21:58.016Z",
+              "quantity": 0,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1756961923206,
+          "name": "Administratif",
+          "total": 5,
+          "installed": 5,
+          "sessions": [
+            {
+              "start": "2025-09-04T05:00:00.000Z",
+              "end": "2025-09-04T05:10:00.000Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-09-04T08:23:16.413Z",
+              "end": "2025-09-04T08:52:57.418Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-09-05T06:25:09.377Z",
+              "end": "2025-09-05T06:49:57.743Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-09-11T14:12:00.378Z",
+              "end": "2025-09-17T10:58:12.261Z",
+              "quantity": 1,
+              "paused": false,
+              "pausedDuration": 124.55811055555556,
+              "elapsedBeforePause": 1.1860855555555556,
+              "resumeTime": "2025-09-17T10:57:35.513Z"
+            },
+            {
+              "start": "2025-09-17T08:30:00.000Z",
+              "end": "2025-09-17T10:00:00.000Z",
+              "quantity": 1,
+              "manual": true,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1757572466952,
+          "name": "Temps de réflexion",
+          "total": 3,
+          "installed": 3,
+          "sessions": [
+            {
+              "start": "2025-09-11T06:34:59.929Z",
+              "end": "2025-09-11T06:54:11.555Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-09-15T09:11:38.663Z",
+              "end": "2025-09-17T09:25:07.989Z",
+              "quantity": 1,
+              "paused": false,
+              "elapsedBeforePause": 0.2619975,
+              "pausedDuration": 47.958817777777774,
+              "resumeTime": "2025-09-17T09:24:53.598Z"
+            },
+            {
+              "start": "2025-09-17T11:16:13.710Z",
+              "end": "2025-09-17T12:00:10.707Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1757572466954,
+          "name": "Modifications",
+          "total": 2,
+          "installed": 2,
+          "sessions": [
+            {
+              "start": "2025-09-11T06:54:15.591Z",
+              "end": "2025-09-11T09:17:43.717Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-09-16T11:49:10.107Z",
+              "end": "2025-09-16T12:21:16.325Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1757909509518,
+          "name": "Sirène d'alarme",
+          "total": 16,
+          "installed": 9,
+          "sessions": [
+            {
+              "start": "2025-09-19T05:20:28.808Z",
+              "end": "2025-09-19T05:59:59.449Z",
+              "quantity": 2,
+              "paused": false
+            },
+            {
+              "start": "2025-09-18T05:30:00.000Z",
+              "end": "2025-09-18T08:10:00.000Z",
+              "quantity": 5,
+              "manual": true,
+              "paused": false
+            },
+            {
+              "start": "2025-09-19T06:28:20.352Z",
+              "end": "2025-09-19T06:48:50.757Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-09-19T07:17:30.473Z",
+              "end": "2025-09-19T07:54:49.231Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1757909509519,
+          "name": "Flash + Sirene",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-09-16T08:50:07.680Z",
+              "end": "2025-09-16T09:25:26.245Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1757909509520,
+          "name": "Déclencheur manuel",
+          "total": 13,
+          "installed": 10,
+          "sessions": [
+            {
+              "start": "2025-09-15T06:24:48.095Z",
+              "end": "2025-09-15T08:58:47.580Z",
+              "quantity": 2,
+              "paused": false,
+              "elapsedBeforePause": 1.0697580555555555,
+              "pausedDuration": 0.06457583333333333,
+              "resumeTime": "2025-09-15T07:32:51.697Z"
+            },
+            {
+              "start": "2025-09-15T09:35:50.207Z",
+              "end": "2025-09-15T14:29:24.287Z",
+              "quantity": 4,
+              "paused": false,
+              "elapsedBeforePause": 0.24959305555555555,
+              "pausedDuration": 1.0407008333333334,
+              "resumeTime": "2025-09-15T10:53:15.265Z"
+            },
+            {
+              "start": "2025-09-16T05:58:11.306Z",
+              "end": "2025-09-16T07:10:35.389Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-09-18T08:00:00.000Z",
+              "end": "2025-09-18T10:00:00.000Z",
+              "quantity": 2,
+              "manual": true,
+              "paused": false
+            },
+            {
+              "start": "2025-09-19T08:44:01.016Z",
+              "end": "2025-09-19T09:34:25.676Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1758110398949,
+          "name": "Préparation sirene",
+          "total": 15,
+          "installed": 10,
+          "sessions": [
+            {
+              "start": "2025-09-17T12:02:18.281Z",
+              "end": "2025-09-17T12:59:32.496Z",
+              "quantity": 4,
+              "paused": false
+            },
+            {
+              "start": "2025-09-17T13:13:00.244Z",
+              "end": "2025-09-17T13:47:19.425Z",
+              "quantity": 6,
+              "paused": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-08-25T11:23:33.195Z"
+    }
+  ],
+  "materials": [
+    {
+      "id": 1,
+      "name": "Sirène d'alarme",
+      "category": "security"
+    },
+    {
+      "id": 2,
+      "name": "Caméra de surveillance",
+      "category": "camera"
+    },
+    {
+      "id": 3,
+      "name": "Détecteur de mouvement",
+      "category": "sensor"
+    },
+    {
+      "id": 4,
+      "name": "Radar",
+      "category": "security"
+    },
+    {
+      "id": 5,
+      "name": "Coffret électrique",
+      "category": "electric"
+    },
+    {
+      "id": 1751308840498,
+      "name": "Cable RJ45",
+      "category": "cable"
+    },
+    {
+      "id": 1751308875563,
+      "name": "Détecteur de fumée",
+      "category": "security"
+    },
+    {
+      "id": 1751308885982,
+      "name": "Vesda",
+      "category": "security"
+    },
+    {
+      "id": 1751308898274,
+      "name": "rangée de tube",
+      "category": "security"
+    },
+    {
+      "id": 1751309292130,
+      "name": "Flash",
+      "category": "security"
+    },
+    {
+      "id": 1751309310742,
+      "name": "Flash + Sirene",
+      "category": "security"
+    },
+    {
+      "id": 1751444137422,
+      "name": "Descente vesda",
+      "category": "security"
+    },
+    {
+      "id": 1751479808474,
+      "name": "Temps de réflexion",
+      "category": "other"
+    },
+    {
+      "id": 1751837391090,
+      "name": "Tirage de câble",
+      "category": "cable"
+    },
+    {
+      "id": 1751837444233,
+      "name": "Déclencheur manuel",
+      "category": "security"
+    },
+    {
+      "id": 1751871053538,
+      "name": "Préparation centrale SSI",
+      "category": "security"
+    },
+    {
+      "id": 1751879950115,
+      "name": "Finitions",
+      "category": "security"
+    },
+    {
+      "id": 1751965789379,
+      "name": "Boîte de raccordement",
+      "category": "cable"
+    },
+    {
+      "id": 1751975837506,
+      "name": "Gâche et lecteur de badge",
+      "category": "security"
+    },
+    {
+      "id": 1752041209989,
+      "name": "Nettoyage - rangement",
+      "category": "other"
+    },
+    {
+      "id": 1752047685571,
+      "name": "Mesures",
+      "category": "other"
+    },
+    {
+      "id": 1752086080371,
+      "name": "Relamping",
+      "category": "electric"
+    },
+    {
+      "id": 1752086158719,
+      "name": "Maintenance Vidéosurveillance",
+      "category": "camera"
+    },
+    {
+      "id": 1752141603665,
+      "name": "Deplacement",
+      "category": "other"
+    },
+    {
+      "id": 1752563957432,
+      "name": "Repérage cheminement",
+      "category": "cable"
+    },
+    {
+      "id": 1752590535471,
+      "name": "Installation équipements baie info",
+      "category": "other"
+    },
+    {
+      "id": 1752734402637,
+      "name": "Vérifications install - collage étiquettes",
+      "category": "security"
+    },
+    {
+      "id": 1752754378434,
+      "name": "Thermostat",
+      "category": "sensor"
+    },
+    {
+      "id": 1753341379957,
+      "name": "Bras de portail",
+      "category": "security"
+    },
+    {
+      "id": 1753690039650,
+      "name": "Remplacement batterie",
+      "category": "security"
+    },
+    {
+      "id": 1753699491150,
+      "name": "Nettoyage camera",
+      "category": "camera"
+    },
+    {
+      "id": 1753938208815,
+      "name": "Installation et cablage centrale incendie",
+      "category": "security"
+    },
+    {
+      "id": 1754025686147,
+      "name": "Tests",
+      "category": "other"
+    },
+    {
+      "id": 1754547863826,
+      "name": "Déplacement caméra",
+      "category": "security"
+    },
+    {
+      "id": 1756961923206,
+      "name": "Administratif",
+      "category": "other"
+    },
+    {
+      "id": 1757572466953,
+      "name": "Modifications",
+      "category": "other"
+    },
+    {
+      "id": 1758110398948,
+      "name": "Préparation sirene",
+      "category": "security"
+    }
+  ],
+  "archivedSites": [
+    {
+      "id": 1752563775439,
+      "name": "École des avocats ",
+      "description": "94bis impasse de la tour buffel",
+      "materials": [
+        {
+          "id": 2,
+          "name": "Caméra de surveillance",
+          "total": 2,
+          "installed": 0,
+          "sessions": []
+        },
+        {
+          "id": 1751308840498,
+          "name": "Cable RJ45",
+          "total": 2,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-15T08:10:13.631Z",
+              "end": "2025-07-15T08:55:58.234Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1752563957432,
+          "name": "Repérage cheminement",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-15T07:21:09.775Z",
+              "end": "2025-07-15T08:10:08.056Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-07-15T07:16:15.439Z",
+      "archived": true
+    },
+    {
+      "id": 1752086216767,
+      "name": "Mairie St Maurice de Cazevieille",
+      "description": "Vidéosurveillance ",
+      "materials": [
+        {
+          "id": 2,
+          "name": "Caméra de surveillance",
+          "total": 4,
+          "installed": 4,
+          "sessions": [
+            {
+              "start": "2025-07-16T06:00:00.000Z",
+              "end": "2025-07-16T10:30:00.000Z",
+              "quantity": 4,
+              "manual": true
+            }
+          ]
+        },
+        {
+          "id": 1752086158719,
+          "name": "Maintenance Vidéosurveillance",
+          "total": 3,
+          "installed": 3,
+          "sessions": [
+            {
+              "start": "2025-07-16T11:00:00.000Z",
+              "end": "2025-07-16T13:30:00.000Z",
+              "quantity": 3,
+              "manual": true
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-07-09T18:36:56.767Z",
+      "archived": true
+    },
+    {
+      "id": 1752572388662,
+      "name": "Faculté de Pharmacie ",
+      "description": "UFR Pharmacie",
+      "materials": [
+        {
+          "id": 2,
+          "name": "Caméra de surveillance",
+          "total": 5,
+          "installed": 5,
+          "sessions": [
+            {
+              "start": "2025-07-15T10:16:19.245Z",
+              "end": "2025-07-15T11:47:04.723Z",
+              "quantity": 3,
+              "paused": false
+            },
+            {
+              "start": "2025-07-15T12:24:10.453Z",
+              "end": "2025-07-15T13:25:11.063Z",
+              "quantity": 2,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1752086158719,
+          "name": "Maintenance Vidéosurveillance",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-15T13:25:22.468Z",
+              "end": "2025-07-15T14:41:10.420Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1752590535471,
+          "name": "Installation équipements baie info",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-15T14:42:33.433Z",
+              "end": "2025-07-15T14:59:52.654Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-07-15T09:39:48.662Z",
+      "archived": true
+    },
+    {
+      "id": 1753690048870,
+      "name": "Mr kremer",
+      "description": "Remplacement batterie sirene",
+      "materials": [
+        {
+          "id": 1753690039650,
+          "name": "Remplacement batterie",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-28T09:17:23.018Z",
+              "end": "2025-07-28T09:29:11.600Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1752141603665,
+          "name": "Deplacement",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-28T08:07:53.006Z",
+              "end": "2025-07-28T09:17:19.197Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-07-28T08:07:28.870Z",
+      "archived": true
+    },
+    {
+      "id": 1753087977355,
+      "name": "E.leclerc",
+      "description": "Contrôle d'accès ",
+      "materials": [
+        {
+          "id": 1752563957432,
+          "name": "Repérage cheminement",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-21T07:30:00.000Z",
+              "end": "2025-07-21T10:00:00.000Z",
+              "quantity": 1,
+              "manual": true
+            }
+          ]
+        },
+        {
+          "id": 1751308840498,
+          "name": "Cable RJ45",
+          "total": 4,
+          "installed": 3,
+          "sessions": [
+            {
+              "start": "2025-07-21T10:55:25.517Z",
+              "end": "2025-07-21T13:39:40.924Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-07-23T02:10:58.870Z",
+              "end": "2025-07-23T07:04:41.824Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-07-23T11:51:52.303Z",
+              "end": "2025-07-23T19:36:34.121Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1752141603665,
+          "name": "Deplacement",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-22T10:27:07.826Z",
+              "end": "2025-07-22T11:06:36.914Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1752086158719,
+          "name": "Maintenance Vidéosurveillance",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-23T18:34:28.956Z",
+              "end": "2025-07-23T19:36:07.910Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-07-21T08:52:57.355Z",
+      "archived": true
+    },
+    {
+      "id": 1753695014717,
+      "name": "Centre de rétention sete",
+      "description": "",
+      "materials": [
+        {
+          "id": 1752141603665,
+          "name": "Deplacement",
+          "total": 2,
+          "installed": 2,
+          "sessions": [
+            {
+              "start": "2025-07-28T09:30:00.000Z",
+              "end": "2025-07-28T10:00:00.000Z",
+              "quantity": 1,
+              "manual": true
+            },
+            {
+              "start": "2025-07-28T13:42:43.731Z",
+              "end": "2025-07-28T15:26:10.719Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Sirène d'alarme",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-28T10:44:12.404Z",
+              "end": "2025-07-28T10:44:13.137Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1753699491150,
+          "name": "Nettoyage camera",
+          "total": 14,
+          "installed": 14,
+          "sessions": [
+            {
+              "start": "2025-07-28T11:30:58.401Z",
+              "end": "2025-07-28T13:23:04.140Z",
+              "quantity": 14,
+              "paused": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-07-28T09:30:14.717Z",
+      "archived": true
+    },
+    {
+      "id": 1753341341293,
+      "name": "Particulier zoo Montpellier ",
+      "description": "Accès Portail",
+      "materials": [
+        {
+          "id": 1751479808474,
+          "name": "Temps de réflexion",
+          "total": 4,
+          "installed": 4,
+          "sessions": [
+            {
+              "start": "2025-07-24T07:16:49.029Z",
+              "end": "2025-07-24T07:24:56.711Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-07-24T15:39:10.742Z",
+              "end": "2025-07-24T15:56:12.987Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-07-29T15:01:13.461Z",
+              "end": "2025-07-29T15:34:08.326Z",
+              "quantity": 2,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1751975837506,
+          "name": "Gâche et lecteur de badge",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-29T06:38:49.451Z",
+              "end": "2025-07-29T15:01:07.858Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1753341379957,
+          "name": "Bras de portail",
+          "total": 2,
+          "installed": 2,
+          "sessions": [
+            {
+              "start": "2025-07-24T08:32:00.136Z",
+              "end": "2025-07-24T15:38:53.380Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-07-25T06:57:44.216Z",
+              "end": "2025-07-25T17:00:16.748Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-07-24T07:15:41.293Z",
+      "archived": true
+    },
+    {
+      "id": 1751309267040,
+      "name": "Philéa Bouillargues",
+      "description": "Installation système de sécurité incendie et alarme",
+      "materials": [
+        {
+          "id": 1,
+          "name": "Sirène d'alarme",
+          "total": 22,
+          "installed": 22,
+          "sessions": [
+            {
+              "start": "2025-07-01T19:05:58.372Z",
+              "end": "2025-07-01T19:12:02.492Z",
+              "quantity": 2
+            },
+            {
+              "start": "2025-07-01T18:50:00.000Z",
+              "end": "2025-07-01T19:50:00.000Z",
+              "quantity": 2
+            },
+            {
+              "start": "2025-07-02T06:57:31.887Z",
+              "end": "2025-07-02T08:02:54.621Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-02T08:03:29.565Z",
+              "end": "2025-07-02T10:27:25.322Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-02T07:05:00.000Z",
+              "end": "2025-07-02T07:06:00.000Z",
+              "quantity": 2,
+              "manual": true
+            },
+            {
+              "start": "2025-07-02T13:08:06.389Z",
+              "end": "2025-07-02T13:35:35.304Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-03T06:56:57.841Z",
+              "end": "2025-07-03T08:48:00.417Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-03T08:52:58.040Z",
+              "end": "2025-07-03T10:30:58.638Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-07T07:51:50.761Z",
+              "end": "2025-07-07T08:18:02.576Z",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Radar",
+          "total": 7,
+          "installed": 7,
+          "sessions": [
+            {
+              "start": "2025-07-01T19:29:46.151Z",
+              "end": "2025-07-01T19:46:24.868Z",
+              "quantity": 7
+            }
+          ]
+        },
+        {
+          "id": 1751308875563,
+          "name": "Détecteur de fumée",
+          "total": 25,
+          "installed": 25,
+          "sessions": [
+            {
+              "start": "2025-07-01T19:30:06.921Z",
+              "end": "2025-07-01T19:46:11.431Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-03T09:02:29.390Z",
+              "end": "2025-07-03T10:30:34.392Z",
+              "quantity": 3
+            },
+            {
+              "start": "2025-07-03T11:13:24.432Z",
+              "end": "2025-07-03T13:44:47.433Z",
+              "quantity": 3
+            },
+            {
+              "start": "2025-07-04T05:58:21.781Z",
+              "end": "2025-07-04T06:36:22.352Z",
+              "quantity": 3
+            },
+            {
+              "start": "2025-07-04T07:45:03.689Z",
+              "end": "2025-07-04T09:23:50.713Z",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": 1751308885982,
+          "name": "Vesda",
+          "total": 6,
+          "installed": 6,
+          "sessions": [
+            {
+              "start": "2025-07-01T19:30:10.475Z",
+              "end": "2025-07-01T19:46:40.663Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-02T09:11:05.854Z",
+              "end": "2025-07-02T10:26:02.785Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-08-02T08:07:36.494Z",
+              "end": "2025-08-02T08:07:37.677Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1751308898274,
+          "name": "rangée de tube",
+          "total": 26,
+          "installed": 26,
+          "sessions": [
+            {
+              "start": "2025-07-01T19:30:13.987Z",
+              "end": "2025-07-01T19:48:09.483Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-02T08:16:07.785Z",
+              "end": "2025-07-02T09:03:39.254Z",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": 1751309310742,
+          "name": "Flash + Sirene",
+          "total": 3,
+          "installed": 3,
+          "sessions": [
+            {
+              "start": "2025-07-01T19:30:18.975Z",
+              "end": "2025-07-01T19:47:01.308Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-03T11:23:15.081Z",
+              "end": "2025-07-03T13:45:01.327Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-07T08:18:25.572Z",
+              "end": "2025-07-07T09:18:02.634Z",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": 1751444137422,
+          "name": "Descente vesda",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-02T08:15:59.904Z",
+              "end": "2025-07-02T09:43:06.238Z",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": 1751479808474,
+          "name": "Temps de réflexion",
+          "total": 6,
+          "installed": 5,
+          "sessions": [
+            {
+              "start": "2025-07-03T05:12:15.298Z",
+              "end": "2025-07-03T08:48:11.688Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-04T06:46:29.154Z",
+              "end": "2025-07-04T07:30:51.246Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-04T07:31:05.243Z",
+              "end": "2025-07-04T07:43:52.983Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-04T09:27:38.743Z",
+              "end": "2025-07-04T10:39:34.689Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-04T11:15:43.088Z",
+              "end": "2025-07-04T15:04:19.508Z",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": 1751308840498,
+          "name": "Cable RJ45",
+          "total": 2,
+          "installed": 2,
+          "sessions": [
+            {
+              "start": "2025-07-07T10:36:12.900Z",
+              "end": "2025-07-07T14:35:09.225Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-09T10:23:04.442Z",
+              "end": "2025-07-09T15:18:20.265Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1751837444233,
+          "name": "Déclencheur manuel",
+          "total": 2,
+          "installed": 2,
+          "sessions": [
+            {
+              "start": "2025-07-07T05:04:22.293Z",
+              "end": "2025-07-07T06:49:41.941Z",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "id": 1751871053538,
+          "name": "Préparation centrale SSI",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-07T06:51:22.210Z",
+              "end": "2025-07-07T07:51:19.364Z",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": 1751879950115,
+          "name": "Finitions",
+          "total": 3,
+          "installed": 3,
+          "sessions": [
+            {
+              "start": "2025-07-07T09:19:33.803Z",
+              "end": "2025-07-07T10:10:13.245Z",
+              "quantity": 1
+            },
+            {
+              "start": "2025-07-09T06:07:31.388Z",
+              "end": "2025-07-09T09:41:01.456Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-07-09T06:07:00.000Z",
+              "end": "2025-07-09T07:07:00.000Z",
+              "quantity": 1,
+              "manual": true
+            }
+          ]
+        },
+        {
+          "id": 1752041209989,
+          "name": "Nettoyage - rangement",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-09T05:07:00.000Z",
+              "end": "2025-07-09T06:07:00.000Z",
+              "quantity": 1,
+              "manual": true
+            }
+          ]
+        },
+        {
+          "id": 1752047685571,
+          "name": "Mesures",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-08-02T08:08:32.206Z",
+              "end": "2025-08-02T08:08:33.064Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1752734402637,
+          "name": "Vérifications install - collage étiquettes",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-17T07:12:18.941Z",
+              "end": "2025-07-17T13:03:23.721Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1752754378434,
+          "name": "Thermostat",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-17T13:03:27.194Z",
+              "end": "2025-07-17T15:38:57.252Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1753938208815,
+          "name": "Installation et cablage centrale incendie",
+          "total": 2,
+          "installed": 2,
+          "sessions": [
+            {
+              "start": "2025-07-31T05:00:00.000Z",
+              "end": "2025-07-31T10:00:00.000Z",
+              "quantity": 0.25,
+              "manual": true
+            },
+            {
+              "start": "2025-07-31T11:00:00.000Z",
+              "end": "2025-07-31T15:00:00.000Z",
+              "quantity": 0.5,
+              "manual": true
+            },
+            {
+              "start": "2025-07-31T18:21:00.000Z",
+              "end": "2025-07-31T18:22:00.000Z",
+              "quantity": 1,
+              "manual": true
+            },
+            {
+              "start": "2025-08-01T05:21:56.083Z",
+              "end": "2025-08-01T09:13:25.997Z",
+              "quantity": 0.25,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1754025686147,
+          "name": "Tests",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-08-01T09:58:50.367Z",
+              "end": "2025-08-01T14:30:59.754Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-06-30T18:47:47.040Z",
+      "archived": true
+    },
+    {
+      "id": 1756106776390,
+      "name": "Résidence l'hacienda",
+      "description": "",
+      "materials": [
+        {
+          "id": 1751479808474,
+          "name": "Temps de réflexion",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-08-25T07:26:22.163Z",
+              "quantity": 1,
+              "paused": false,
+              "end": "2025-08-25T08:28:22.665Z"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-08-25T07:26:16.390Z",
+      "archived": true,
+      "archivedAt": "2025-08-25T08:29:04.867Z"
+    },
+    {
+      "id": 1756102417459,
+      "name": "Camargue",
+      "description": "",
+      "materials": [
+        {
+          "id": 1752086080371,
+          "name": "Relamping",
+          "total": 2,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-08-25T06:17:54.436Z",
+              "quantity": 1,
+              "paused": false,
+              "end": "2025-08-25T07:11:43.670Z"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-08-25T06:13:37.459Z",
+      "archived": true,
+      "archivedAt": "2025-08-25T08:29:11.459Z"
+    },
+    {
+      "id": 1752086091482,
+      "name": "Camargue Village",
+      "description": "",
+      "materials": [
+        {
+          "id": 1752086080371,
+          "name": "Relamping",
+          "total": 11,
+          "installed": 11,
+          "sessions": [
+            {
+              "start": "2025-07-10T06:03:39.826Z",
+              "end": "2025-07-22T05:53:13.066Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-07-22T06:00:30.569Z",
+              "end": "2025-07-22T08:56:51.754Z",
+              "quantity": 2,
+              "paused": false
+            },
+            {
+              "start": "2025-07-28T07:39:29.904Z",
+              "end": "2025-07-28T07:55:46.405Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-08-04T05:55:26.948Z",
+              "end": "2025-08-04T09:19:39.810Z",
+              "quantity": 7,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1751479808474,
+          "name": "Temps de réflexion",
+          "total": 2,
+          "installed": 2,
+          "sessions": [
+            {
+              "start": "2025-07-22T09:04:47.854Z",
+              "end": "2025-07-22T10:25:34.973Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-08-04T09:46:19.662Z",
+              "end": "2025-08-04T10:29:16.020Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1751879950115,
+          "name": "Finitions",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-08-04T09:22:21.407Z",
+              "end": "2025-08-04T10:28:57.474Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-07-09T18:34:51.482Z",
+      "archived": true,
+      "archivedAt": "2025-08-25T08:29:15.389Z"
+    },
+    {
+      "id": 1751913912894,
+      "name": "Triolet Montpellier ",
+      "description": "Tirage de câble contrôle d'accès ",
+      "materials": [
+        {
+          "id": 1751837391090,
+          "name": "Tirage de câble",
+          "total": 3,
+          "installed": 3,
+          "sessions": [
+            {
+              "start": "2025-07-08T06:54:45.699Z",
+              "end": "2025-07-08T08:52:22.537Z",
+              "quantity": 3,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1751479808474,
+          "name": "Temps de réflexion",
+          "total": 2,
+          "installed": 2,
+          "sessions": [
+            {
+              "start": "2025-07-08T06:15:38.623Z",
+              "end": "2025-07-08T06:54:37.194Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-07-08T14:59:39.292Z",
+              "end": "2025-07-08T15:22:39.649Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Sirène d'alarme",
+          "total": 2,
+          "installed": 0,
+          "sessions": []
+        },
+        {
+          "id": 1751879950115,
+          "name": "Finitions",
+          "total": 1,
+          "installed": 0,
+          "sessions": []
+        },
+        {
+          "id": 1751965789379,
+          "name": "Boîte de raccordement",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-08T10:15:31.509Z",
+              "end": "2025-07-08T11:51:28.143Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1751975837506,
+          "name": "Gâche et lecteur de badge",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-08T11:58:11.091Z",
+              "end": "2025-07-08T15:22:44.152Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-07-07T18:45:12.894Z",
+      "archived": true,
+      "archivedAt": "2025-08-25T08:29:17.594Z"
+    },
+    {
+      "id": 1752139107260,
+      "name": "Leclerc ",
+      "description": "Vidéosurveillance ",
+      "materials": [
+        {
+          "id": 2,
+          "name": "Caméra de surveillance",
+          "total": 3,
+          "installed": 3,
+          "sessions": [
+            {
+              "start": "2025-07-10T10:59:32.376Z",
+              "end": "2025-07-10T15:47:17.459Z",
+              "quantity": 2,
+              "paused": false
+            },
+            {
+              "start": "2025-08-07T07:13:17.295Z",
+              "end": "2025-08-07T08:45:26.591Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1752141603665,
+          "name": "Deplacement",
+          "total": 1,
+          "installed": 1,
+          "sessions": [
+            {
+              "start": "2025-07-10T09:20:00.000Z",
+              "end": "2025-07-10T09:50:00.000Z",
+              "quantity": 1,
+              "manual": true
+            }
+          ]
+        },
+        {
+          "id": 1751837391090,
+          "name": "Tirage de câble",
+          "total": 5,
+          "installed": 4.99,
+          "sessions": [
+            {
+              "start": "2025-08-06T06:03:08.158Z",
+              "end": "2025-08-06T06:03:16.979Z",
+              "quantity": 0.75,
+              "paused": false
+            },
+            {
+              "start": "2025-08-06T06:03:27.795Z",
+              "end": "2025-08-06T06:03:29.436Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-08-06T08:09:57.385Z",
+              "end": "2025-08-06T13:33:58.295Z",
+              "quantity": 0.25,
+              "paused": false
+            },
+            {
+              "start": "2025-08-06T13:34:29.570Z",
+              "end": "2025-08-06T14:09:09.128Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-08-07T12:40:11.847Z",
+              "end": "2025-08-07T15:29:13.907Z",
+              "quantity": 1.2,
+              "paused": false
+            },
+            {
+              "start": "2025-08-08T05:21:45.217Z",
+              "end": "2025-08-08T12:17:00.024Z",
+              "quantity": 0.2,
+              "paused": false
+            },
+            {
+              "start": "2025-08-08T12:29:04.073Z",
+              "end": "2025-08-08T12:29:26.349Z",
+              "quantity": 0.59,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1751479808474,
+          "name": "Temps de réflexion",
+          "total": 2,
+          "installed": 2,
+          "sessions": [
+            {
+              "start": "2025-08-06T13:09:17.832Z",
+              "end": "2025-08-06T14:44:52.963Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-08-08T10:02:05.697Z",
+              "end": "2025-08-08T10:26:55.441Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1754547863826,
+          "name": "Déplacement caméra",
+          "total": 1,
+          "installed": 0.99,
+          "sessions": [
+            {
+              "start": "2025-08-07T07:57:00.711Z",
+              "end": "2025-08-07T10:11:10.198Z",
+              "quantity": 0.8,
+              "paused": false
+            },
+            {
+              "start": "2025-08-07T12:34:12.805Z",
+              "end": "2025-08-07T12:34:49.326Z",
+              "quantity": 0.1,
+              "paused": false
+            },
+            {
+              "start": "2025-08-07T12:34:58.049Z",
+              "end": "2025-08-07T12:35:31.772Z",
+              "quantity": 0.09,
+              "paused": false
+            }
+          ]
+        },
+        {
+          "id": 1751879950115,
+          "name": "Finitions",
+          "total": 2,
+          "installed": 2,
+          "sessions": [
+            {
+              "start": "2025-08-07T11:37:29.625Z",
+              "end": "2025-08-07T12:34:01.228Z",
+              "quantity": 1,
+              "paused": false
+            },
+            {
+              "start": "2025-08-08T08:22:27.020Z",
+              "end": "2025-08-08T10:01:46.498Z",
+              "quantity": 1,
+              "paused": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-07-10T09:18:27.260Z",
+      "archived": true,
+      "archivedAt": "2025-08-25T08:29:21.801Z"
+    }
+  ]
+}
